@@ -3,7 +3,7 @@
 - 🌱 Learning Full Stack Java Development.
 - 📫 Email:-harshvijay577@gmail.com
 
-Pursuing batchlors in Computer Application.
+Pursuing bachelors in Computer Application.
 
 Intrested in Software Development.
 
