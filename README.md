@@ -1,23 +1,15 @@
-- 👋 Hi, I’m @HarshSinha
-- 👀 I’m interested in Software development.
-- 🌱 Learning Full Stack Java Development.
-- 📫 Email:-harshvijay577@gmail.com
+- Hi, I’m @HarshSinha
+- Backend Developer.
+- Java Full Stackc.
+- harshvijay577@gmail.com
 
-Pursuing bachelors in Computer Application.
-
-Intrested in Software Development.
+Master in Computer Applications.
+Graphic Era University, Dehradun
 
 EXPERTIES-
-
    JAVA
-  
-   JDBC
-  
-   JSP/SERVLETS
-  
-   MYSQL
-  
-   HTML/CSS
-  
-   WORDPRESS
-
+   SPRING
+   SPRINGBOOT
+   HIBERNATE
+   DBMS
+   DATA STRUCTURES
